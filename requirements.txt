@@ -1,0 +1,7 @@
+streamlit
+supabase
+openai
+google-genai
+twilio
+python-dotenv
+pydantic

@@ -3,5 +3,11 @@ supabase
 openai
 google-genai
 twilio
+groq
 python-dotenv
 pydantic
+# pywhatkit
+# pillow
+# opencv-python
+pyautogui 
+pyperclip
